@@ -1,3 +1,5 @@
+[# Certificado](https://app.rocketseat.com.br/certificates/a6656bca-67ba-442f-a8b1-fbb835e49f5d)
+
 [# Acessibilidade](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 
 Quando tocamos no assunto acessibilidade digital, não estamos falando somente sobre a possibilidade de acessar um Website através de um navegador que é utilizado por várias pessoas.
